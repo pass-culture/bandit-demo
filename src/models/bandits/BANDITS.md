@@ -23,7 +23,7 @@ $\epsilon \in [0,1]$ est le paramètre d’exploration à ajuster :
 
 ### UCB : Upper Confidence Bound
 
-!image.png
+<img src="UCB.png" width="30%">
 
 **Upper Confidence Bound**
 
